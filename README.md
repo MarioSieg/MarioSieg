@@ -5,6 +5,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariosieg" alt="mariosieg" /></a> </p>
 
+```asm
+.data
+msg: .asciz "Welcome to my profile!\n"
+.text
+.globl main
+main:
+    xorq %rax, %rax
+    xorq %rdi, %rdi
+    movb $1, %al
+    movb $1, %dil
+    movq $msg, %rsi
+    movb $13, %dl
+    syscall
+    movb $60, %al
+    xorb %dil, %dil
+    syscall
+
+> Welcome to my profile!
+```
+
 - 🔭 I’m currently working on **a compiler and assembler**
 
 - 🌱 I’m currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512)**
