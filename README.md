@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, C++, C#, Rust, Java, Assembly**
 
-- 📫 How to reach me **mt3000@gmx.de**
+- 📫 How to reach me: **mt3000@gmx.de**
 
 - ⚡ Fun fact **I love low level programming, from OS development to game engine systems.**
 
