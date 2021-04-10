@@ -1,5 +1,5 @@
 <h2 align="center">Mario Sieg<h2>
-<h3 align="center">A passionate software engineer from Germany 😼</h3>
+<h3 align="center">Programmer, Hacker, Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosieg&label=Profile%20views&color=0e75b6&style=flat" alt="mariosieg" /> </p>
 
@@ -25,7 +25,7 @@ main:
 
 - 🔭 Working on **a VM-runtime, compiler and assembler**
 
-- 🌱 Currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512)**, advanced reverse engineering
+- 🌱 Currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512), advanced reverse engineering **
 
 - 💬 Ask me about **C, C++, C#, Rust, Java, Assembly**
 
