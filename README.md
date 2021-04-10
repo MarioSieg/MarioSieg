@@ -23,9 +23,9 @@ main:
 > Welcome to my profile!
 ```
 
-- 🔭 I’m currently working on **a compiler and assembler**
+- 🔭 Working on **a VM-runtime, compiler and assembler**
 
-- 🌱 I’m currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512)**
+- 🌱 Currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512)**, advanced reverse engineering
 
 - 💬 Ask me about **C, C++, C#, Rust, Java, Assembly**
 
