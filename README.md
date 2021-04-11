@@ -25,7 +25,7 @@ main:
 
 - 🔭 Working on **a VM-runtime, compiler and assembler**
 
-- 🌱 Currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512), advanced reverse engineering **
+- 🌱 Currently learning **advanced x86-64 assembly (SSE, AVX, AVX 512), advanced reverse engineering**
 
 - 💬 Ask me about **C, C++, C#, Rust, Java, Assembly**
 
