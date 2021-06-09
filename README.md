@@ -1,8 +1,23 @@
 <h2 align="center">Mario Sieg<h2>
-<h3 align="center">Programmer, Hacker, Software Engineer</h3>
+<h3 align="center">A 19 year old software engineer, hacker and game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosieg&label=Profile%20views&color=0e75b6&style=flat" alt="mariosieg" /> </p>
 
+Hello, nice to meet you and thank you for visiting my profile!<br>
+Programming is my passion since 10 years.<br>
+I love programming because it's allows me to build everything from my fanatasy.<br>
+It all started 10 years ago with game development using Unity and C#.<br>
+From that point I became so interested in programming,<br>
+that I made it a lifestyle for me.<br>
+Since the I've written multiple projects from scratch using C, C++ and x86-64 assembler:<br>
+A full featured 3D game engine with editor,<br>
+a compiler, virtual machine, JIT compiler, bootloader, mini OS kernel.<br>
+Currently I'm working on a new high end scripting language [Corium](https://github.com/MarioSieg/Corium)<br>
+and a new 3D game and engine custom engine.<br>
+The primary languages I'm using are: C++ 20, C 11, C# 9 and some Rust.<br>
+Sometimes even some Java, Lua, Python or JavaScript.<br>
+My dream is to create a virtual world,<br>
+where I can recreate worlds from my fanatasy and let other people experience them.<br>
 ```asm
 .data
 msg: .asciz "Welcome to my profile!\n"
@@ -31,7 +46,7 @@ main:
 
 - 📫 How to reach me: **mt3000@gmx.de**
 
-- ⚡ Fun fact **I love low level programming, from OS development to game engine systems.**
+- ⚡ Fun fact **The closer something is to the machine, the more it interests me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
