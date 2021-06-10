@@ -13,7 +13,7 @@ Since then I've written multiple projects from scratch using C, C++ and x86-64 a
 A full featured 3D game engine with editor,<br>
 a compiler, virtual machine, JIT compiler, bootloader, mini OS kernel.<br>
 Currently I'm working on a new high end scripting language [Corium](https://github.com/MarioSieg/Corium)<br>
-and a new 3D game and engine custom engine.<br>
+and a new 3D game and custom engine.<br>
 The primary languages I'm using are: C++ 20, C 11, C# 9 and some Rust.<br>
 Sometimes even some Java, Lua, Python or JavaScript.<br>
 My dream is to create a virtual world,<br>
