@@ -25,7 +25,6 @@ main:
 
 <h3> Skills </h3>
 
-**Expert**<br>
 * C
 * C++
 * Rust
@@ -40,21 +39,13 @@ main:
 * Hacking (injection, kernel exploits)
 * Reverse engineering
 * Game engines
-
-**Advanced**<br>
 * C#
 * Game development
 * Shader programming
 * 3D rendering
 * Java
 * Python
-
-**Basics**<br>
-* JavaScript
-* Lua
 * 3D modeling
-* Web development
-
 
 <h3> Setup </h3>
 
