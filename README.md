@@ -49,17 +49,16 @@ main:
 
 <h3> Setup </h3>
 
-**OS** Ubuntu 20<br>
+**OS** Ubuntu 20, Windows 11<br>
 **CPU** AMD Ryzen Threadripper 3970x - 32 Cores, 64 Threads<br>
-**ISA** AMD 64, SSE ... AVX 2<br>
 **RAM** 128 GB DDR4 3600 MHz<br>
-**GPU** Nvidia RTX 3080<br>
+**GPU** Nvidia GeForce RTX 3080<br>
 **Storage** 4 TB SSD, 12 TB HDD<br>
 **Monitors** 2 * 4K Ultra Wide 144 Hz<br>
 
 <h3> Projects </h3>
 
-**Corium** A vision of an easy programming language for everyone, but still fast and safe<br>
+**Corium** My own experimental programming language. Easy and fast - that's the goal<br>
 **Nominax** The workhorse behind Corium. A runtime system including an AI based JIT-compiler<br>
 **Cyrax64** A small OS project - live boot and extract data from the target machine.<br>
 **AstroLab** 3D space simulation including our galaxy and solar system in 1 : 1 scale.<br>
