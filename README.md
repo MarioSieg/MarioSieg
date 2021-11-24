@@ -23,7 +23,7 @@ main:
 > Welcome to my profile!
 ```
 
-<h3> Skills </h3>
+<h3> Fields of interests </h3>
 
 * C
 * C++
