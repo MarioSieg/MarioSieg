@@ -1,5 +1,5 @@
 <h2 align="center">Mario Sieg<h2>
-<h3 align="center">A 19 year old software engineer, hacker and game developer.</h3>
+<h3 align="center">A 20 year old software engineer, hacker and game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosieg&label=Profile%20views&color=0e75b6&style=flat" alt="mariosieg" /> </p>
 
@@ -28,7 +28,8 @@ main:
 * C
 * C++
 * Rust
-* x86-64 Assembler
+* x86-64 assembler and machine language
+* AArch64 assembler and machine language
 * Linux
 * Runtime systems
 * JIT compilers
