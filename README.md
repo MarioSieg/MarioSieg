@@ -59,11 +59,7 @@ main:
 
 <h3> Projects </h3>
 
-**Corium** My own experimental programming language. Easy and fast - that's the goal<br>
-**Nominax** The workhorse behind Corium. A runtime system including an AI based JIT-compiler<br>
-**Cyrax64** A small OS project - live boot and extract data from the target machine.<br>
-**AstroLab** 3D space simulation including our galaxy and solar system in 1 : 1 scale.<br>
-**Tools** Various tools for hacking and experimenting<br>
+**Aetherverse** Virtual reality metaverse platform.<br>
 
 <h3> Contact 📫 </h3>
 E-Mail: mt3000@gmx.de<br>
