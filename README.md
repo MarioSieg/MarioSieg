@@ -6,21 +6,22 @@
 ```asm
 .data
 msg: .asciz "Welcome to my profile!\n"
+.equ msg_len, .-msg
 .text
 .globl main
 main:
-    xorq %rax, %rax
-    xorq %rdi, %rdi
-    incq %rax
-    incq %rdi
-    movq $msg, %rsi
-    movb $13, %dl
+    xorl %eax, %eax
+    xorl %edi, %edi
+    incl %eax
+    incl %edi
+    leaq msg(%rip), %rsi
+    movl $msg_len, %edx
     syscall
-    movb $60, %al
-    xorb %dil, %dil
+    movl $60, %eax
+    xorl %edi, %edi
     syscall
-
-> Welcome to my profile!
+    
+>> Welcome to my profile! <<
 ```
 
 <h3> Fields of interests </h3>
