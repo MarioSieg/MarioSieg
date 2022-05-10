@@ -29,9 +29,19 @@ main:
 * C
 * C++
 * Rust
+* C#
+* Lua
 * x86-64 assembler and machine language
 * AArch64 assembler and machine language
+* Game engines
+* Game development
+* Shader programming
+* 3D rendering
+* 3D modeling
+* Vulkan
+* Direct3D 11,12
 * Linux
+* Algorithms
 * Runtime systems
 * JIT compilers
 * AOT compilers
@@ -40,14 +50,8 @@ main:
 * Optimizations
 * Hacking (injection, kernel exploits)
 * Reverse engineering
-* Game engines
-* C#
-* Game development
-* Shader programming
-* 3D rendering
 * Java
 * Python
-* 3D modeling
 
 <h3> Setup </h3>
 
