@@ -5,7 +5,7 @@
 <h3>:airplane: My programming journey</h3>
 Software development is my passion since I've started when I was 12.<br>
 Back then I created simple 3D games with Unity and C#.<br>
-Today, 8 years of intensive learning and coding, I've created multiple projects,<br>
+Today, 8 years of intensive learning and coding later, I've created multiple projects,<br>
 have a deep technical knowledge about programming and software,<br>
 from writing a bootloader in x86 assembly to rendering animations using Direct3D11 on the GPU.<br>
 
