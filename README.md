@@ -1,7 +1,5 @@
 <h2>Mario Sieg - A 20 year old software engineer, hacker and game developer.</h2>
 
-![selfie](https://i.imgur.com/vZoRZ8p.jpg)
-
 <h3>:airplane: My programming journey</h3>
 Software development is my passion since I've started when I was 12.<br>
 Back then I created simple 3D games with Unity and C#.<br>
