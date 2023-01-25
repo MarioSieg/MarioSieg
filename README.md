@@ -7,30 +7,16 @@ Today, 8 years of intensive learning and coding later, I've created multiple pro
 have a deep technical knowledge about programming and software,<br>
 from writing a bootloader in x86 assembly to rendering animations using Direct3D11 on the GPU.<br>
 
-<h3>:hammer_and_wrench: Language Skills</h3>
-
-<h4>:boom: Expert :boom: </h4>
+<h3>:open_book: Interests</h3>
 
 - C
 - C++
-
-<h4>:fire: Very Proficient :fire:</h4>
-
 - C#
 - Rust
-- Assembly x86-64 / AMD64
-
-<h4>:zap: Good :zap:</h4>
-
-- Java
-- Dart
-- Assembly AArch64 / ARM64
-- Python
 - Lua
-
-<h3>:open_book: Interests</h3>
-
-- 3D Game Engines
+- Java
+- Python
+- Game Engines
 - Vulkan, Direct3D11/12, Metal
 - Algorithms
 - Vectorization (SSE, AVX, AVX 512, Neon)
@@ -38,22 +24,15 @@ from writing a bootloader in x86 assembly to rendering animations using Direct3D
 - OS Kernels
 - Drivers
 - Apps and UI rendering
-- Server applications
 - Keyloggers and spyware
-- Hardware (building PCs, Smartphones)
+- Polymorpthic engines
+- Artifial intelligence
+- Hardware
+- Servers
 
 <h3>:computer: Workspace</h3>
 
-**OS** Ubuntu 20, Windows 11<br>
-**CPU** AMD Ryzen Threadripper 3970x - 32 Cores, 64 Threads<br>
-**RAM** 128 GB DDR4 3600 MHz<br>
-**GPU** Nvidia GeForce RTX 3080<br>
-**Storage** 4 TB SSD, 12 TB HDD<br>
-**Monitors** 4K Ultra Wide 144 Hz<br>
-
-<h3>:clipboard: Projects </h3>
-
-**Aetherverse** Virtual reality metaverse platform.<br>
+![image](https://user-images.githubusercontent.com/49988901/214691292-90e64524-13e7-4112-a12a-853116fbb352.png)
 
 <h3>:love_letter: Contact </h3>
 E-Mail: mt3000@gmx.de<br>
