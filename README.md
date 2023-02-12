@@ -1,4 +1,4 @@
-<h2>Mario Sieg - A 20 year old software engineer, hacker and game developer.</h2>
+<h2>Mario "Neo" Sieg - A 20 year old software engineer, hacker and game developer.</h2>
 
 <h3>:airplane: My programming journey</h3>
 Software development is my passion since I've started when I was 12.<br>
