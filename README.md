@@ -1,43 +1,43 @@
-<h2>Mario "Neo" Sieg - A 20 year old software engineer, hacker and game developer.</h2>
+<h2>Mario "Neo" Sieg</h2>
 
-<h3>:airplane: My programming journey</h3>
-Software development is my passion since I've started when I was 12.<br>
-Back then I created simple 3D games with Unity and C#.<br>
-Today, 8 years of intensive learning and coding later, I've created multiple projects,<br>
-have a deep technical knowledge about programming and software,<br>
-from writing a bootloader in x86 assembly to rendering animations using Direct3D11 on the GPU.<br>
+<h3> About me </h3>
 
-<h3>:open_book: Interests</h3>
+Computers are a component of my whole life.<br>
+Since I was a child I was never pleasured by using something without knowing how it works.<br>
+I started programming when I was 13 years old in C# using Unity when I saw a video about game-development.<br>
+<br>
+Today my focus lies in low level systems programming using C, C and Assembly.<br>
+Writing a long mode bootloader in x86-{16,32,64} assembly,<br>
+optimizing matrix multiplication using AVX SIMD intrinsics in a Vulkan game engine and writing a polymorphic JIT compiler are examples of things I do.<br>
+Programming made it possible to dive into software and build my own technology by just using my mind and a text editor.<br>
 
-- C
-- C++
-- C#
-- Rust
-- Lua
-- Java
-- Python
-- Game Engines
-- Vulkan, Direct3D11/12, Metal
-- Algorithms
-- Vectorization (SSE, AVX, AVX 512, Neon)
+<h3>:open_book: Research Interests</h3>
+
+- Programming languages
 - Compilers (AOT and JIT)
-- OS Kernels
-- Drivers
-- Apps and UI rendering
-- Keyloggers and spyware
-- Polymorpthic engines
-- Artifial intelligence
-- Hardware
-- Servers
+- Machine languages and IR
+- Game engines
+- Robotics and animatronics
+- Graphics programming
+- Mathematics
 
-<h3>:computer: Workspace</h3>
+<h3>Software</h3>
+My favourite programming languages and tools:<br>
 
-![image](https://user-images.githubusercontent.com/49988901/214691292-90e64524-13e7-4112-a12a-853116fbb352.png)
+- Languages: C, C++, Lua, C#, Rust, Java, Python
+- Tools: Linux, gcc, git, objdump, IDA, CLion, VSCode 
+
+<h3>Hardware</h3>
+The Hardware I enjoy working with:
+
+- Primary workstation: 32-core, 64-thread AMD Ryzen Threadripper 3970x, 128GB RAM
+- IOT and AArch64-target device: Raspberry PI 4 8GB RAM 
+- Test system: An old Dual-Xeon HP Z600 Workstation 
+- Server: 4x AMD Opteron Rack with 16 cores each and 64 GB RAM
+
+All devices run Linux with kernel >= v.6.0 As distro I use Linux Mint and Ubuntu Server 
 
 <h3>:love_letter: Contact </h3>
-E-Mail: mt3000@gmx.de<br>
-English or German only!<br><br>
+E-Mail: mario.sieg.64@gmail.com<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariosieg&show_icons=true&locale=en&layout=compact" alt="mariosieg" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=mariosieg&show_icons=true&locale=en" alt="mariosieg" />
