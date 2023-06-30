@@ -2,7 +2,7 @@
 
 ### 🚀 About Me 🚀
 
-Computers have always been the beating heart of my interest. 💻  
+Computers have always been the beating heart of my existence. 💻  
 From a young age, I've been driven by an insatiable curiosity to understand how things work. 🔍  
 My journey into the world of programming began at the age of 13 when I stumbled upon a video about game development, and I instantly knew that I had found my passion. 🎮  
 
