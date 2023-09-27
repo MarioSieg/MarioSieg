@@ -8,6 +8,8 @@ My research interests span a wide range of fascinating topics:
 
 - Programming languages
 - Compilers (AOT and JIT)
+- AI (ML) and tensor optimizations
+- HPC (High Performance Computing) using AVX, Neon, SVE, Cuda and OpenCL
 - Machine languages and IR
 - Game engines
 - Robotics and animatronics
