@@ -1,34 +1,29 @@
 ## Mario "Neo" Sieg
 
-### About Me
+Since my youngest days I am very curious and interested in how things really work. Disassembling TVs, Radios and building electronical devices with their parts was my primary interest when I was a child. 
+At 13 I discovered game development with Unity and C#.
+At 14  I released my first commercial game on Steam: "Nukklerma Robot Warfare".
 
-From a young age, I've been driven by an insatiable curiosity to understand how things really work.
-My journey into the world of programming began at the age of 13 when I stumbled upon a video about game development, and I instantly knew that I had found my passion.
-My research interests span a wide range of fascinating topics:
+After my first commercial success, I dived into game engine development and graphics programming with C++, Lua and multiple graphics APIs such as Direct3D11, 12 and Vulkan.
+I spent the next years writing different game engines and simulation systems.
 
-- Programming languages
-- Compilers (AOT and JIT)
-- AI (ML) and tensor optimizations
-- HPC (High Performance Computing) using AVX, Neon, SVE, Cuda and OpenCL
-- Machine languages and IR
-- Game engines
-- Robotics and animatronics
-- Graphics programming
-- Mathematics
+To simplify the development process of complex games within my own engines, I took another deep dive on compilers and interpreters, focusing on JIT (Just In Time) compilation for statically typed languages on x86-64 aswell as efficient implementations of virtual machines.
+This resulted in my research programming-lanuage "Neo".
+I also won the second price at Jugend-Forscht, a German science competition with a custom language-runtime.
 
-### Software I use
-- Languages: C, C++, Lua, C#, Rust, Java, Python
-- Tools: Linux, gcc, git, objdump, IDA, CLion, VSCode
+In 2023 I moved to Berlin to study and to refine my technical knowledge and skills even more.
+Today, my primary interesents are:
 
-### Hardware I use
-
-- Primary Workstation: 32-core, 64-thread AMD Ryzen Threadripper 3970x, 128GB RAM, RTX 3080
-- IOT and AArch64-Target Device: Raspberry PI 4 8GB RAM
-- Test System: An aging yet reliable Dual-Xeon HP Z600 Workstation
-- Server: 4x AMD Opteron Rack with 16 cores each and 64 GB RAM
-
-### Contact
-
-Feel free to reach out: mario.sieg.64@gmail.com
+* Game (engine) development
+* GPU programming
+* Machine learning
+* Virtual machines and compilers
+* Programming language design
+* Dynamic code generation and optimization
+* C and C++ programming
+* Rust and Lua programming
+* Mathematics
+* Operating system kernels
+* Electronics and robotics
 
 ![mariosieg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mariosieg&show_icons=true&locale=en&layout=compact)
