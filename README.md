@@ -1,8 +1,11 @@
-## Mario "Neo" Sieg
+## Mario "Neo" Sieg - Software engineer, freelancer, mathematics student.
+### Specialized in C, modern C++, game engines, operating systems and low level systems programming.
+### Created my own OS-Kernel, JIT-compiled programming language and 3D Vulkan game engine.
+
 
 Since my youngest days I am very curious and interested in how things really work. Disassembling TVs, Radios and building electronical devices with their parts was my primary interest when I was a child. 
 At 13 I discovered game development with Unity and C#.
-At 14  I released my first commercial game on Steam: "Nukklerma Robot Warfare".
+At 14 I released my first commercial game on Steam: "Nukklerma Robot Warfare".
 
 After my first commercial success, I dived into game engine development and graphics programming with C++, Lua and multiple graphics APIs such as Direct3D11, 12 and Vulkan.
 I spent the next years writing different game engines and simulation systems.
